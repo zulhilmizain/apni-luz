@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string name="app_name">INPA</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="menu_title_discovery">Discover</string>
+    <string name="menu_title_mytrip">My Trip</string>
+    <string name="menu_title_myprofile">My Profile</string>
+    <string name="menu_title_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_select_people_going">SelectPeopleGoing</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent">
+
+<item
+    android:id="@+id/menu_discover"
+    android:icon="@drawable/ic_menu_discover"
+    android:title="@string/menu_title_discovery" />
+
+<item
+    android:id="@+id/menu_mytrip"
+    android:icon="@drawable/ic_menu_mytrip"
+    android:title="@string/menu_title_mytrip" />
+
+<item
+    android:id="@+id/menu_myprofile"
+    android:icon="@drawable/ic_menu_myprofile"
+    android:title="@string/menu_title_myprofile" />
+
+<item
+    android:id="@+id/menu_settings"
+    android:icon="@drawable/ic_menu_settings"
+    android:title="@string/menu_title_settings" />
+
+</menu>
